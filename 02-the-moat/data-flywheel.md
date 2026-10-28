@@ -7,30 +7,30 @@
 
 | Loop | What It Measures | Score 1 | Score 5 | Score |
 |------|------------------|---------|---------|-------|
-| **Correction** | Do users fix AI outputs? Is that signal captured and reused? | No capture | Automated retraining | 3/5 |
+| **Correction** | Do users fix AI outputs? Is that signal captured and reused? | No capture | Automated retraining | 2/5 |
 | **Preference** | Does the product learn individual / team preferences over time? | Stateless | Deep personalization | 1/5 |
-| **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer | 2/5 |
+| **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer | 3/5 |
 | **Network** | Does each new user / team make the product better for everyone? | Isolated | Strong network effects | 3/5 |
 
-### Correction Loop - __/5
-**What you capture today:**
-**How it compounds:**
+### Correction Loop - 2/5
+**What you capture today:** The analysis happens in the background with the only requirement being the investor to click the analyse button. Although in the future it might make sense to enable users to ask specific questions before making the investment if they would like additional information that they are not seeing.
+**How it compounds:** model improves, better output and more usage
 
-### Preference Loop - __/5
-**What you capture today:**
-**How it compounds:**
+### Preference Loop - 1/5
+**What you capture today:** For now, it only shows the information that will enable the user to make an informed decision. There are fixed preferences like geographical location, industry, funding that's being requested etc but this can be achieved through filters.
+**How it compounds:** users interact and more usage
 
-### Domain Context Loop - __/5
-**What you capture today:**
-**How it compounds:**
+### Domain Context Loop - 3/5
+**What you capture today:** the usage gives insight into the type of information users are seeking and what might be missing on the platform
+**How it compounds:** model improves
 
-### Network Loop - __/5
-**What you capture today:**
-**How it compounds:**
+### Network Loop - 1/5
+**What you capture today:** For now, it is still very much isolated in it's design as there is a specific output being displayed.
+**How it compounds:** users interact, more usage, model improves
 
-**Total Flywheel Score: __/20**
-**Weakest Loop:**
-**Fix for weakest loop:**
+**Total Flywheel Score: 7/20**
+**Weakest Loop:** Preference
+**Fix for weakest loop:** Enable users to ask specific questions before making the investment if they would like additional information that they are not seeing. There could be a standard view with the ability to refine the data/information being displayed.
 
 ---
 
