@@ -37,22 +37,22 @@
 ## Encroachment Threat Assessment
 
 ### 1. Platform Encroachment
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+**Attacker:** Google ; OpenAI
+**Vector:** they could offer the ability to validate an idea; research assistance and consolidation; analytical services
+**Time-to-threat:** a few months
+**% of value at risk:** 90%
 
 ### 2. Vertical Competitor
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+**Attacker:** AngelList
+**Vector:** already established venture investing platform - they have the advantage of having built a network that exists and works
+**Time-to-threat:** a few weeks
+**% of value at risk:** 90%
 
 ### 3. Adjacent Expansion
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+**Attacker:** PitchBook
+**Vector:** known for financial data research with established company, investor, deal, and funding information
+**Time-to-threat:** a year
+**% of value at risk:** 50%
 
 ---
 
