@@ -16,4 +16,4 @@ Oracle
 We bet that AI can help entrepreneurs validate their ideas and connect with the right investors, making it easier to turn promising ideas into funded businesses.
 
 ## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? -->
+If, after a 90-day pilot, fewer than 10% of qualified founder–investor matches progress to serious funding discussions, reconsider or stop the product, as this would suggest the AI matching isn't delivering enough value.
