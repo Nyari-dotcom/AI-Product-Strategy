@@ -1,7 +1,7 @@
 # The Prototype Bet
 
 ## What I Built
-We bet that an AI-powered investment intelligence platform that validates business ideas, surfaces market opportunities, and matches founders with suitable investors will reduce friction in the funding process and help more promising ideas secure investment.
+We built an AI-powered investment intelligence platform that validates business ideas, surfaces market opportunities, and matches founders with suitable investors that will reduce friction in the funding process and help more promising ideas secure investment.
 
 ## Tool Used
 Replit
