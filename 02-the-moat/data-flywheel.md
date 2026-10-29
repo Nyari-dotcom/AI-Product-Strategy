@@ -61,7 +61,7 @@
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
 **Attacker:** AngelList
-**Attack vector (target the weakest loop):**
+**Attack vector (target the weakest loop):** although P&P will be providing AI-powered assessments, AngelList already has investor relationships, established workflows, and credibility in the venture ecosystem.
 **Weeks 1-4 - what they ship:**
 **Weeks 5-8 - how they poach users:**
 **Weeks 9-12 - why users don't come back:**
