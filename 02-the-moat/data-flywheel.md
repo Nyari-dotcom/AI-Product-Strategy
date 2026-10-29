@@ -60,7 +60,7 @@
 
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
-**Attacker:**
+**Attacker:** AngelList
 **Attack vector (target the weakest loop):**
 **Weeks 1-4 - what they ship:**
 **Weeks 5-8 - how they poach users:**
