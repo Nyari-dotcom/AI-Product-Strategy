@@ -63,6 +63,20 @@
 **Attacker:** AngelList
 **Attack vector (target the weakest loop):** although P&P will be providing AI-powered assessments, AngelList already has investor relationships, established workflows, and credibility in the venture ecosystem.
 **Weeks 1-4 - what they ship:**
+- An AI startup assessment that evaluates business ideas, market demand, competitors, and financial assumptions.
+- Investor recommendations based on sector, stage, funding needs, and investment preferences.
+- AI-generated pitch summaries that let investors review opportunities quickly.
+- A feature that explains why a startup matches an investor's criteria.
+
 **Weeks 5-8 - how they poach users:**
-**Weeks 9-12 - why users don't come back:**
-**Your defense:**
+- Invite investors already in my ecosystem to trial AI-assisted deal discovery.
+- Give founders a faster way to prepare and submit investor-ready profiles.
+- Promote relevant startup opportunities to investors using their existing investment preferences.
+- Use existing relationships and established workflows to encourage adoption.
+  
+**Weeks 9-12 - why users don't come back:** 
+- Keep investor activity and startup discovery in one established workflow.
+- Make it easy for investors to shortlist opportunities, record diligence findings, and track deal progress.
+- Help founders manage investor conversations and follow-ups without maintaining a second system.
+- Improve recommendations using engagement signals and the outcomes my platform can legitimately observe.
+**Your defense:** Move beyond just competing on scoring ideas alone. My next move is to prove that P&P platform consistently produces more relevant investor introductions and helps promising opportunities progress toward funding.
