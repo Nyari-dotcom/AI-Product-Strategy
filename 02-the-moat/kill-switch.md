@@ -13,7 +13,7 @@
 <!-- Ready / Partial / Locked -->
 
 ## If [primary vendor] doubles pricing tomorrow:
-<!-- What's your 48-hour response? -->
+Calculate the new cost per assessment, identify the most expensive model calls, and test a lower-cost alternative on representative cases.
 
 ## If [primary vendor] ships a competing product:
 <!-- What's defensible that they can't replicate? -->
