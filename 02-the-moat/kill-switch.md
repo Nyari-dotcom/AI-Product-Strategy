@@ -10,10 +10,11 @@
 | **Eval** |No validated benchmark yet for assessment accuracy, investor-match relevance, forecast quality, or bias across providers. | H|Create 20 representative test cases and score model outputs for evidence quality, consistency, cost, and latency. |
 
 ## Portability Score
-<!-- Ready / Partial / Locked -->
+2/5
+The core AI capabilities rely on functions that multiple providers can deliver, but P&P's has not yet demonstrated assessment logic, data pipeline, and evaluation framework that can move between them without significant rework or loss of quality.
 
 ## If [primary vendor] doubles pricing tomorrow:
 Calculate the new cost per assessment, identify the most expensive model calls, and test a lower-cost alternative on representative cases.
 
 ## If [primary vendor] ships a competing product:
-<!-- What's defensible that they can't replicate? -->
+Prioritise direct investor relationships, verified opportunity data, matching quality, and progress tracking from introduction to funding.
