@@ -2,15 +2,9 @@
 
 ## Packaging Decision
 
-| Leader | Filler| Killer |
-|--------------|----------------|-------|
-| Inference (primary model) | | |
-| Inference (cascading/triage) | | |
-| Infrastructure | | |
-| Data/storage | | |
-| Human-in-the-loop | | |
-| **Total AI COGS** | | |
-
+**Leader - the feature that they come for:**
+**Filler - nice add, bumps ARPU:**
+**Killer - sell separately or die:**
 
 
 ## Cost Model
