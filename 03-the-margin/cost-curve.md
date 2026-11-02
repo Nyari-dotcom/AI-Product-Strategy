@@ -11,6 +11,19 @@
 | Human-in-the-loop | | |
 | **Total AI COGS** | | |
 
+
+
+## Cost Model
+
+| Cost Category | Per-User/Month | Notes |
+|--------------|----------------|-------|
+| Inference (primary model) | | |
+| Inference (cascading/triage) | | |
+| Infrastructure | | |
+| Data/storage | | |
+| Human-in-the-loop | | |
+| **Total AI COGS** | | |
+
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
 
