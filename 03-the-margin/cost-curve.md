@@ -1,6 +1,6 @@
 # Cost Curve & Pricing Strategy
 
-## Cost Model
+## Packaging Decision
 
 | Leader | Filler| Killer |
 |--------------|----------------|-------|
