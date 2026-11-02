@@ -2,7 +2,7 @@
 
 ## Packaging Decision
 
-**Leader - the feature that they come for:**
+### **Leader** - the feature that they come for:
 **Filler - nice add, bumps ARPU:**
 **Killer - sell separately or die:**
 
