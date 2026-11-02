@@ -3,9 +3,9 @@
 ## Packaging Decision
 
 ### **Leader** - the feature that they come for:
-**Filler - nice add, bumps ARPU:**
-**Killer - sell separately or die:**
-
+### Filler - nice add, bumps ARPU:
+### Killer - sell separately or die:
+------------------------------------------
 
 ## Cost Model
 
