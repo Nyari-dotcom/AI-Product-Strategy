@@ -2,7 +2,7 @@
 
 ## Cost Model
 
-| Cost Category | Per-User/Month | Notes |
+| Leader | Filler| Killer |
 |--------------|----------------|-------|
 | Inference (primary model) | | |
 | Inference (cascading/triage) | | |
