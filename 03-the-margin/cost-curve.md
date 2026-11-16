@@ -2,9 +2,22 @@
 
 ## Packaging Decision
 
-### **Leader** - the feature that they come for:
+### Leader - the feature that they come for:
+- AI-powered validation
+- Investment opportunity assessment
+- Intelligent investor matching
+
 ### Filler - nice add, bumps ARPU:
+- AI-generated pitch decks
+- Executive summaries
+- Pitch translations into different languages
+- AI-generated business plans
+
 ### Killer - sell separately or die:
+- Advanced financial simulations
+- Deep market intelligence
+- Autonomous due diligence agents
+- Continuous investment monitoring
 ------------------------------------------
 
 ## Cost Model
