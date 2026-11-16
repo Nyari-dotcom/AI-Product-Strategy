@@ -4,7 +4,7 @@
 
 | Loop | Input | Output | Compounds? | Status |
 |------|-------|--------|-----------|--------|
-| Recursive Learning| |Founder submissions, investor feedback, funding outcomes |Improved assessment accuracy and matching relevance | Y | active |
+| Recursive Learning| Founder submissions, investor feedback, funding outcomes |Improved assessment accuracy and matching relevance | Y | active |
 |Cross-Domain Transfer |Market intelligence, competitor analysis, geographic and sector data |Better opportunity scoring across industries and regions | Y | active |
 | Network Intelligence| Investor interactions, introductions, acceptance/rejection patterns|Stronger investor-founder matching and recommendation quality | Y | active |
 
